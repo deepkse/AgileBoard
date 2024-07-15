@@ -8,7 +8,7 @@ The Agile board is a visual representation of work to facilitate collaboration.
 
 ### `Try it`
 
-[Link Text](https://deepkse.github.io/AgileBoard)
+[deepkse.github.io/AgileBoard](https://deepkse.github.io/AgileBoard)
 
 ![Agile Board](https://github.com/deepkse/deepkse/blob/main/public/images/AgileBoard.png?raw=true)
 
